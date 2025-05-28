@@ -21,7 +21,6 @@ function generate() {
     sum = (value1 + value2);
     value1 = value2;
     value2 = sum;
-    i = i + 1;
     }
   }
 
